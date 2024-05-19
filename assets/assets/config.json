@@ -1,0 +1,12 @@
+{
+    "useFakeFigures": false,
+    "useFakeSocietyPartners": false,
+    "useFakeArticles": false,
+    "useFakeSponsors": false,
+    "useFakeAgenda": false,
+    "useFakeEventDetails": false,
+    "useFakeNotifications": false,
+    "useFakeCore": false,
+    "useFakeAuth": false,
+    "useFakeAttendees": false
+}
